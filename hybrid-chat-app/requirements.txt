@@ -1,0 +1,6 @@
+socket
+threading
+argparse
+flask
+flask-socketio
+eventlet
